@@ -1,0 +1,20 @@
+{
+  "user1": [
+    {
+      "sender": "user",
+      "content": "bonjour"
+    },
+    {
+      "sender": "agent",
+      "content": "Hello! How can I help you today?"
+    },
+    {
+      "sender": "user",
+      "content": "Notre mission est d'aider les entreprises à croître plus rapidement que jamais en leur fournissant des solutions digitales innovantes. Nous combinons développement web et mobile, ERP, CRM et stratégies de référencement naturel pour renforcer leur présence en ligne, optimiser leurs opérations et conquérir de nouveaux marchés."
+    },
+    {
+      "sender": "agent",
+      "content": "Our mission is to help businesses achieve unprecedented growth by providing innovative digital solutions. We combine web/mobile development, ERP, CRM, and SEO strategies to enhance their online presence, optimize operations, and expand into new markets."
+    }
+  ]
+}
